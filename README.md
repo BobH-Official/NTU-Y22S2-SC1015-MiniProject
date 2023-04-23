@@ -106,11 +106,11 @@ We realized that the ARIMA model was unable to capture the complex non-linear tr
 
 ## 7. Contributors :black_nib:
 
-Hui Xujia:		LSTM Model, 
+Hui Xujia:		Data Preparation & Cleaning, LSTM Model, Presentation Slides, Documentation, GitHub Repository
 
-Tan Liang Meng:		ARIMA Model,
+Tan Liang Meng:		EDA, Data Preparation & Cleaning, ARIMA Model, Presentation Slides, Documentation
 
-Lim Ricky:		Data Preparation, Documentation,
+Lim Ricky:		EDA, Problem Introduction, Presentation Slides, Documentation, Dataset Source Searching & Downloading
   
 - - -  
 ## 8. References :page_facing_up:

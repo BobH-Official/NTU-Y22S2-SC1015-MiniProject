@@ -28,7 +28,7 @@ The Jupyter Notebooks provide detailed descriptions and smaller details not cove
 .
 ├── datasets
 │   └── Nasdaq100.csv
-├── C126_team 6_Instructor_HEQIYUAN .pptx
+├── C126_Team6_HeQiYuan_TanHuiLim.pptx
 ├── Models-Final.ipynb
 ├── README.md
 └── requirements.txt
